@@ -377,19 +377,19 @@ user-select: none; /* Standard syntax */
     transform: translate3d(30%,0,-200px);
   }
   
-  #slide1 { background-image: url("../images/sketch1625580596748.png");
+  #slide1 { background-image: url("../images/1a.png");
     background-repeat: no-repeat;
     background-size: cover; }
-  #slide2 { background-image: url("../images/sketch1625580596748.png");
+  #slide2 { background-image: url("../images/2a.png");
     background-repeat: no-repeat;
     background-size: cover; }
-  #slide3 { background-image: url("../images/website\ main\ -\ lightProject\ haveli.png");
+  #slide3 { background-image: url("../images/3a.png");
     background-repeat: no-repeat;
     background-size: cover; }
-  #slide4 { background-image: url("../images/IMG_20200410_140055.jpg");
+  #slide4 { background-image: url("../images/4a.jpg");
     background-repeat: no-repeat;
     background-size: cover; }
-  #slide5 { background-image: url("../images/sketch1625580596748.png");
+  #slide5 { background-image: url("../images/5a.png");
 background-repeat: no-repeat;
 background-size: cover; }
 
