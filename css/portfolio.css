@@ -463,6 +463,7 @@ background-size: cover; }
     z-index: 0;
     background-color: aliceblue;
     overflow: hidden;
+    display: block;
   }
 .aboutcontent{
     font-family: Alegreya SC;
@@ -474,6 +475,7 @@ background-size: cover; }
     position: relative;
     right: 10dvw;
     float: right;
+    width: 50%;
 }
 .smallself {
     height: 20vw;
@@ -1368,10 +1370,12 @@ i {
   }
   .about{
     width: 100%;
-    height:15dvh;
+    height:25dvh;
     z-index: 0;
     background-color: aliceblue;
     overflow: hidden;
+    display: block;
+   
   }
 .aboutcontent{
     font-family: Alegreya SC;
@@ -1379,11 +1383,11 @@ i {
     font-size: 2vw;
     color: rgba(20,51,73,1);
     text-align: center;
-    top: 2vw;
+    top: 5vw;
     position: relative;
     right: 4dvw;
-   width:60%;
     float: right;
+    width: 50%;
   }
   .smallself {
     height: 20vw;
