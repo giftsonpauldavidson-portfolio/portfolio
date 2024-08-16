@@ -580,7 +580,7 @@ h1 {
   background-color: #0E4B71;
 } 
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 576px) {
   .Header{
     width: 100dvw;
     height: 6dvh;
