@@ -730,8 +730,8 @@ h1 {
   font-size: 3vw;
 }
 .carde3-img{
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 70%;
   border: 0px solid rgba(14,75,113,1);
   border-radius: 15px;
 }
