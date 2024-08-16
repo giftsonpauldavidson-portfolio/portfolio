@@ -1368,7 +1368,7 @@ i {
   }
   .about{
     width: 100%;
-    height:16dvh;
+    height:15dvh;
     z-index: 0;
     background-color: aliceblue;
     overflow: hidden;
