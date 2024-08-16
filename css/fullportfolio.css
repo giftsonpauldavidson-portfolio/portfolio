@@ -567,8 +567,8 @@ h1 {
   transition: 0.3s ease-out;
  }
  .carde3-img{
-  width:auto;
-  height: 70%;
+  width:70%;
+  height: auto;
   border: 0px solid rgba(14,75,113,1);
   border-radius: 15px;
 }
